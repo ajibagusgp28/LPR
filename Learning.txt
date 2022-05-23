@@ -1,0 +1,2 @@
+Hallo dari kelompok numpy
+Dari bootcamp Data Science DigitalSkola
